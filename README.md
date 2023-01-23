@@ -29,4 +29,5 @@ Node, npm 설치 확인 방법:
 
 ### 프로젝트 복사
 Github Repo에서 `<> Code` 버튼을 클릭하여 repo를 복사합니다.
-![프로젝트](https://github.com/sujilee91/pair-coding/blob/copy_code.png)
+![프로젝트](https://github.com/sujilee91/pair-coding/blob/main/blob/copy_code.png)
+
