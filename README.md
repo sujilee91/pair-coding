@@ -9,7 +9,7 @@
 ### 필수 준비물
 ####  Node, npm
 1. Mac 설치:
-Node [설치](https://nodejs.org/en/download/)
+- Node [설치](https://nodejs.org/en/download/)
 Node 설치 후 다음 커맨드를 터미널에 입력합니다. (mac 용)
     ```sh 
     sudo npm install npm --global
@@ -51,3 +51,32 @@ npm start
 ```
 
 정상으로 작동시 자동으로 `http://localhost:3000` 페이지가 로드 되어야 합니다.
+
+### 프로젝트 설명
+React 와 Open RESTful API - 날씨, Quote 를 이용한 Single Page Application 을 구현 하는 프로젝트 입니다.
+
+#### Techstack
+- React
+- CSS
+
+#### 개발 과정
+1. 디렉토리 구성 하기
+현재 프로젝트 내 디렉토리를 다음과 같이 구성 해 줍니다.
+    ```sh
+        src
+        |-components
+        |-|- Weather.js
+        |-|- Quote.js
+        |-functions
+        |-|- constants.js
+        |-|- useFetchWeather.js
+        |-|- useFetchQuote.js
+        
+    ```
+
+2. 깃헙 branch,commit,push,pull,merge 이해하기
+- branch
+- commit
+- push
+- pull
+- merge
